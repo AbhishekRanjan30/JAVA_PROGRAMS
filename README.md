@@ -1,3 +1,7 @@
-# JAVA_PROGRAMS :- Spiral Matrics 
+# JAVA_PROGRAMS :- 
 
-This is basically a program which is used to Print an array in an Spiral Order .. This is very important you can say, because this help you to think about the logic of it very carefully. 
+#Program 1 :- Spiral Matrices
+This program help you to print an array in Spiral Order ..... You can know about the spiral matrices after execution of code ..
+  
+ #Program 2 :- Check Prime Numbers 
+ This program is used to check whether the number is prime or not as well as I was trying to Minimize the time complexity of it and fortunately I did it ...From O(n) to O(√n) 
