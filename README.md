@@ -12,4 +12,6 @@ This program help you to print an array in Spiral Order ..... You can know about
  
  #Program5 :- This program is sued to find the element in the ArrayList using binary search with the help of recursion
  
+ #Program6 :- This Program helps you to find Sub_sequence of a String.
+ 
  
