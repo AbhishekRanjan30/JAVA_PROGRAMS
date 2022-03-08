@@ -16,3 +16,5 @@ This program help you to print an array in Spiral Order ..... You can know about
  
  #Program7 :- This program helps you to find the LCM of a Number.
  
+ #Program8 :- This Program helps you to find whether a String is Anagram or not.
+ 
